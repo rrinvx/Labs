@@ -1,0 +1,11 @@
+﻿  Task.1.2.cpp
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(11,9): error C2601: main: недопустимые локальные определения функций
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(4): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(29,33): error C2001: newline в константе
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(31,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "if"
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(31,89): error C2065: I: необъявленный идентификатор
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(33,17): error C2143: синтаксическая ошибка: отсутствие ";" перед "if"
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(33,25): error C2100: недопустимое косвенное обращение
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(35,17): error C2100: недопустимое косвенное обращение
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(37,17): error C2100: недопустимое косвенное обращение
+C:\Users\User\Desktop\Labs\Lab.1\Task.1.2\Task.1.2.cpp(39,17): error C2100: недопустимое косвенное обращение
